@@ -1,3 +1,4 @@
 # Html-prctice
-This is my first Git Repository
-Author-Pratiksha Zarkar
+This is my first Git Repository.
+<br>
+Author-Pratiksha Zarkar.
